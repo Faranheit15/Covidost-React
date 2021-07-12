@@ -1,0 +1,14 @@
+.heading {
+    text-align: center;
+}
+
+.logo {
+    height: 5em;
+    width: auto;
+    padding-right: 1em;
+}
+
+.title {
+    display: inline-flex;
+    font-size: 5em;
+}
